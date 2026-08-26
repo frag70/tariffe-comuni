@@ -1,0 +1,11 @@
+fornitore,nome_offerta,tipo,prezzo_kwh,prezzo_fisso_mese,costo_annuale_stimato,link_affiliato,comuni_disponibili,scadenza
+Eni Plenitude,Trend Casa Luce,luce,0.152,0,547,https://tracking.tuolink.it/eni-luce,TUTTI,2025-12-31
+Eni Plenitude,Trend Casa Gas,gas,0.58,0,725,https://tracking.tuolink.it/eni-gas,TUTTI,2025-12-31
+Edison,Edison World Luce,luce,0.149,0,536,https://tracking.tuolink.it/edison-luce,TUTTI,2025-12-31
+Edison,Edison World Gas,gas,0.56,0,700,https://tracking.tuolink.it/edison-gas,TUTTI,2025-12-31
+Sorgenia,Next Energy Luce,luce,0.155,0,558,https://tracking.tuolink.it/sorgenia-luce,TUTTI,2025-12-31
+Sorgenia,Next Energy Gas,gas,0.59,0,738,https://tracking.tuolink.it/sorgenia-gas,TUTTI,2025-12-31
+A2A,A2A Click Luce,luce,0.151,0,544,https://tracking.tuolink.it/a2a-luce,"030015|058091|092009",2025-12-31
+A2A,A2A Click Gas,gas,0.57,0,713,https://tracking.tuolink.it/a2a-gas,"030015|058091|092009",2025-12-31
+Hera,Hera Più Luce,luce,0.153,0,551,https://tracking.tuolink.it/hera-luce,TUTTI,2025-12-31
+Hera,Hera Più Gas,gas,0.58,0,725,https://tracking.tuolink.it/hera-gas,TUTTI,2025-12-31

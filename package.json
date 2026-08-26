@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build:production": "npm run build && echo 'Build completato in /out - carica su Vercel/Netlify'",
+    "data:validate": "node scripts/validate-data.js"
+  }
+}
