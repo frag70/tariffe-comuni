@@ -1,6 +1,8 @@
 fornitore,nome_offerta,tipo,prezzo_kwh,prezzo_fisso_mese,costo_annuale_stimato,link_affiliato,comuni_disponibili,scadenza
-Eni Plenitude,Trend Casa Luce,luce,0.152,0,547,https://tracking.tuolink.it/eni-luce,TUTTI,2025-12-31
-Eni Plenitude,Trend Casa Gas,gas,0.58,0,725,https://tracking.tuolink.it/eni-gas,TUTTI,2025-12-31
+Eni Plenitude,Fixa Time 24 Smart Luce,luce,0.0941,12,398,https://awin.it/placeholder-eni-fixa-luce,TUTTI,2025-12-31
+Eni Plenitude,Fixa Time 24 Smart Gas,gas,0.4180,12,729,https://awin.it/placeholder-eni-fixa-gas,TUTTI,2025-12-31
+Eni Plenitude,Trend Casa Luce,luce,0.132,12,500,https://awin.it/placeholder-eni-trend-luce,TUTTI,2025-12-31
+Eni Plenitude,Trend Casa Gas,gas,0.60,12,984,https://awin.it/placeholder-eni-trend-gas,TUTTI,2025-12-31
 Edison,Edison World Luce,luce,0.149,0,536,https://tracking.tuolink.it/edison-luce,TUTTI,2025-12-31
 Edison,Edison World Gas,gas,0.56,0,700,https://tracking.tuolink.it/edison-gas,TUTTI,2025-12-31
 Sorgenia,Next Energy Luce,luce,0.155,0,558,https://tracking.tuolink.it/sorgenia-luce,TUTTI,2025-12-31
