@@ -1,13 +1,34 @@
 fornitore,nome_offerta,tipo,prezzo_kwh,prezzo_fisso_mese,costo_annuale_stimato,link_affiliato,comuni_disponibili,scadenza
-Eni Plenitude,Fixa Time 24 Smart Luce,luce,0.0941,12,398,https://awin.it/placeholder-eni-fixa-luce,TUTTI,2025-12-31
-Eni Plenitude,Fixa Time 24 Smart Gas,gas,0.4180,12,729,https://awin.it/placeholder-eni-fixa-gas,TUTTI,2025-12-31
-Eni Plenitude,Trend Casa Luce,luce,0.132,12,500,https://awin.it/placeholder-eni-trend-luce,TUTTI,2025-12-31
-Eni Plenitude,Trend Casa Gas,gas,0.60,12,984,https://awin.it/placeholder-eni-trend-gas,TUTTI,2025-12-31
-Edison,Edison World Luce,luce,0.149,0,536,https://tracking.tuolink.it/edison-luce,TUTTI,2025-12-31
-Edison,Edison World Gas,gas,0.56,0,700,https://tracking.tuolink.it/edison-gas,TUTTI,2025-12-31
-Sorgenia,Next Energy Luce,luce,0.155,0,558,https://tracking.tuolink.it/sorgenia-luce,TUTTI,2025-12-31
-Sorgenia,Next Energy Gas,gas,0.59,0,738,https://tracking.tuolink.it/sorgenia-gas,TUTTI,2025-12-31
-A2A,A2A Click Luce,luce,0.151,0,544,https://tracking.tuolink.it/a2a-luce,"030015|058091|092009",2025-12-31
-A2A,A2A Click Gas,gas,0.57,0,713,https://tracking.tuolink.it/a2a-gas,"030015|058091|092009",2025-12-31
-Hera,Hera Più Luce,luce,0.153,0,551,https://tracking.tuolink.it/hera-luce,TUTTI,2025-12-31
-Hera,Hera Più Gas,gas,0.58,0,725,https://tracking.tuolink.it/hera-gas,TUTTI,2025-12-31
+Eni Plenitude,Fixa Time 24 Smart Luce,luce,0.0941,12,398,https://awin.it/click/ENI_FIXA_LUCE_TUO_ID,TUTTI,2026-12-31
+Eni Plenitude,Fixa Time 24 Smart Gas,gas,0.418,12,729,https://awin.it/click/ENI_FIXA_GAS_TUO_ID,TUTTI,2026-12-31
+Eni Plenitude,Trend Casa Luce,luce,0.122,12,473,https://awin.it/click/ENI_TREND_LUCE_TUO_ID,TUTTI,2026-12-31
+Eni Plenitude,Trend Casa Gas,gas,0.25,12,494,https://awin.it/click/ENI_TREND_GAS_TUO_ID,TUTTI,2026-12-31
+Edison,Edison World Luce,luce,0.149,0,402,https://awin.it/click/EDISON_WORLD_LUCE_TUO_ID,TUTTI,2026-12-31
+Edison,Edison World Gas,gas,0.56,0,784,https://awin.it/click/EDISON_WORLD_GAS_TUO_ID,TUTTI,2026-12-31
+Edison,Edison Web Gas,gas,0.52,0,728,https://awin.it/click/EDISON_WEB_GAS_TUO_ID,TUTTI,2026-12-31
+Sorgenia,Next Energy Smart Luce,luce,0.155,9,527,https://awin.it/click/SORGENIA_SMART_LUCE_TUO_ID,TUTTI,2026-12-31
+Sorgenia,Next Energy Smart Gas,gas,0.65,9,1018,https://awin.it/click/SORGENIA_SMART_GAS_TUO_ID,TUTTI,2026-12-31
+Sorgenia,Next Energy PUNtuale Luce,luce,0.135,9,473,https://awin.it/click/SORGENIA_PUNTUALE_LUCE_TUO_ID,TUTTI,2026-12-31
+Sorgenia,Next Energy Sunlight Luce,luce,0.142,9,491,https://awin.it/click/SORGENIA_SUNLIGHT_LUCE_TUO_ID,TUTTI,2026-12-31
+A2A,A2A Click Luce,luce,0.142,0,383,https://awin.it/click/A2A_CLICK_LUCE_TUO_ID,TUTTI,2026-12-31
+A2A,A2A Click Gas,gas,0.53,0,742,https://awin.it/click/A2A_CLICK_GAS_TUO_ID,TUTTI,2026-12-31
+A2A,Ready 12 Luce,luce,0.135,8.5,467,https://awin.it/click/A2A_READY_LUCE_TUO_ID,TUTTI,2026-12-31
+A2A,Ready 12 Gas,gas,0.49,9,794,https://awin.it/click/A2A_READY_GAS_TUO_ID,TUTTI,2026-12-31
+Hera,Hera Più Luce,luce,0.153,0,413,https://awin.it/click/HERA_PIU_LUCE_TUO_ID,TUTTI,2026-12-31
+Hera,Hera Più Gas,gas,0.58,0,812,https://awin.it/click/HERA_PIU_GAS_TUO_ID,TUTTI,2026-12-31
+Iren,Iren Web Self Luce,luce,0.125,12.25,485,https://awin.it/click/IREN_WEBSELF_LUCE_TUO_ID,TUTTI,2026-12-31
+Iren,Iren Web Self Gas,gas,0.55,12,914,https://awin.it/click/IREN_WEBSELF_GAS_TUO_ID,TUTTI,2026-12-31
+Iren,Iren Revolution Luce,luce,0.138,10,493,https://awin.it/click/IREN_REVOLUTION_LUCE_TUO_ID,TUTTI,2026-12-31
+Iren,Iren Revolution Gas,gas,0.58,10,932,https://awin.it/click/IREN_REVOLUTION_GAS_TUO_ID,TUTTI,2026-12-31
+Enel,Enel Flex Control Luce,luce,0.122,15,509,https://awin.it/click/ENEL_FLEX_LUCE_TUO_ID,TUTTI,2026-09-15
+Enel,Fix Web Luce,luce,0.149,12,546,https://awin.it/click/ENEL_FIXWEB_LUCE_TUO_ID,TUTTI,2026-12-31
+Enel,Enel Flex Control Gas,gas,0.21,15,474,https://awin.it/click/ENEL_FLEX_GAS_TUO_ID,TUTTI,2026-09-15
+NeN,NeN Due Luce,luce,0.218,8,685,https://awin.it/click/NEN_DUE_LUCE_TUO_ID,TUTTI,2026-12-31
+NeN,NeN Due Gas,gas,0.385,9,647,https://awin.it/click/NEN_DUE_GAS_TUO_ID,TUTTI,2026-12-31
+NeN,NeN Dieci Luce,luce,0.119,6,393,https://awin.it/click/NEN_DIECI_LUCE_TUO_ID,TUTTI,2026-12-31
+Acea,Acea Rapida Luce,luce,0.145,0,392,https://awin.it/click/ACEA_RAPIDA_LUCE_TUO_ID,TUTTI,2026-12-31
+Acea,Acea Rapida Gas,gas,0.54,0,756,https://awin.it/click/ACEA_RAPIDA_GAS_TUO_ID,TUTTI,2026-12-31
+Eni Plenitude,Fixa Time 24 Smart Dual,dual,0.0941,24,1127,https://awin.it/click/ENI_FIXA_DUAL_TUO_ID,TUTTI,2026-12-31
+A2A,Ready 12 Dual,dual,0.135,17.5,1261,https://awin.it/click/A2A_READY_DUAL_TUO_ID,TUTTI,2026-12-31
+Iren,Iren Web Self Dual,dual,0.125,24.25,1399,https://awin.it/click/IREN_WEBSELF_DUAL_TUO_ID,TUTTI,2026-12-31
+NeN,NeN Due Dual,dual,0.218,17,1332,https://awin.it/click/NEN_DUE_DUAL_TUO_ID,TUTTI,2026-12-31
